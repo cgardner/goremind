@@ -1,1 +1,5 @@
+REM JAN 1 2021 DURATION 30 MSG %"30 Minute Task on Jan 1 2021%"
+REM JAN 02 2021 DURATION 30 MSG %"30 Minute Task on Jan 2 2021%"
+REM JAN 3 DURATION 30 MSG %"30 Minute Task on every Jan 3%"
+REM 1 DURATION 30 TAG example MSG %"30 Minute Task on the 1st of every month%"
 REM MON DURATION 30 MSG %"30 Minute Task every monday%"
